@@ -1,4 +1,4 @@
-# Bootcamp DIO Data Engineer
+# DIO Data Projects
 Repositório para armazenamento de atividades e projetos na área de Dados, realizados durante aulas disponibilizadas pela plataforma da comunidade de desenvolvedores de software Digital Innovation One.
 
 ## Projetos desenvolvidos 
