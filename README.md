@@ -5,3 +5,6 @@ Repositório para armazenamento de atividades e projetos na área de Dados, real
 - Projeto Índices de sobrevivência com dados do Titanic 
 - Projeto Relatório para Análise Exploratória de Dados
 - Projeto Análise e Agrupamento de consumidores com ML
+
+## Licença
+[MIT](https://choosealicense.com/licenses/mit/)
