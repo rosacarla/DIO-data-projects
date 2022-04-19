@@ -14,7 +14,7 @@ Repositório para armazenamento de atividades e projetos na área de Dados, real
 - Índices de sobrevivência com dados do Titanic [[1]](https://github.com/rosacarla/DIO-data-projects/blob/main/notebooks/ProjetoDIO_Titanic.ipynb) 
 - Relatório para Análise Exploratória de Dados [[2]](https://github.com/rosacarla/DIO-data-projects/blob/main/notebooks/Projeto_Relatorio_Analise_Exploratoria.ipynb)
 - Análise e Agrupamento de consumidores com ML [[3]](https://github.com/rosacarla/DIO-data-projects/blob/main/notebooks/Projeto_Agrupamento_Clientes_KMeans.ipynb)
-- Desafio Transformar Base de Dados Textuais em Matrix [[4]]((https://github.com/rosacarla/DIO-data-projects/blob/main/notebooks/Desafio_text_matrix.ipynb))
+- Desafio Transformar Base de Dados Textuais em Matrix [[4]](https://github.com/rosacarla/DIO-data-projects/blob/main/notebooks/Desafio_text_matrix.ipynb)
 
 ---
 
