@@ -1,6 +1,6 @@
 
 <p align="center"> 
-<img src="https://github.com/rosacarla/DIO-data-projects/blob/main/logo.jpg" width="200">
+<img src="https://github.com/rosacarla/DIO-data-projects/blob/main/images/logo.jpg" width="200">
 </p>
 
 # <p align="center">DIO DATA PROJECTS</p>  
@@ -17,8 +17,8 @@ Este repositório armazena atividades e projetos desenvolvidos na área de Dados
 - Relatório para Análise Exploratória de Dados [[2]](https://github.com/rosacarla/DIO-data-projects/blob/main/notebooks/Projeto_Relatorio_Analise_Exploratoria.ipynb)
 - Análise e Agrupamento de consumidores com ML [[3]](https://github.com/rosacarla/DIO-data-projects/blob/main/notebooks/Projeto_Agrupamento_Clientes_KMeans.ipynb)
 - Desafio Transformar Base de Dados Textuais em Matriz [[4]](https://github.com/rosacarla/DIO-data-projects/blob/main/notebooks/Desafio_text_matrix.ipynb)  
-- *Dashboard com dados mundiais de casos confirmados e mortes por coronavírus, criado com o conjunto de dados Johns Hopkins University CSSE COVID-19 Data, disponível no site www.ourworldindata.org. [[5]]() 
-###### *Utilize um botão no canto esquerdo superior do arquivo para abrir o dashboard com a ferramenta Google Data Studio.
+- *Dashboard com dados mundiais de casos confirmados e mortes por coronavírus, criado com o conjunto de dados Johns Hopkins University CSSE COVID-19 Data, disponível no site www.ourworldindata.org. [[5]](https://github.com/rosacarla/DIO-data-projects/blob/main/Relat%C3%B3rio_Covid19_2021.pdf) 
+###### *Depois de fazer download do arquivo, utilize um botão no canto esquerdo superior do PDF para abrir o dashboard com a ferramenta Google Data Studio.
 <p align="left"> 
 <img src="" width="200">
 </p>
