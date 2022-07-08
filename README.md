@@ -5,7 +5,9 @@
 
 # <p align="center">DIO DATA PROJECTS</p>  
 
-Repositório para armazenamento de atividades e projetos na área de Dados, realizados durante aulas disponibilizadas pela plataforma da comunidade de desenvolvedores de software Digital Innovation One.
+<p align="justify"> 
+Este repositório armazena atividades e projetos desenvolvidos na área de Dados, tanto realizados durante aulas disponibilizadas pela plataforma da comunidade de desenvolvedores de software Digital Innovation One Inc., quanto por interesse pessoal para testar ferramentas de ETL e visuação de dados.
+</p>
 
 ---
 
@@ -14,7 +16,12 @@ Repositório para armazenamento de atividades e projetos na área de Dados, real
 - Índices de sobrevivência com dados do Titanic [[1]](https://github.com/rosacarla/DIO-data-projects/blob/main/notebooks/ProjetoDIO_Titanic.ipynb) 
 - Relatório para Análise Exploratória de Dados [[2]](https://github.com/rosacarla/DIO-data-projects/blob/main/notebooks/Projeto_Relatorio_Analise_Exploratoria.ipynb)
 - Análise e Agrupamento de consumidores com ML [[3]](https://github.com/rosacarla/DIO-data-projects/blob/main/notebooks/Projeto_Agrupamento_Clientes_KMeans.ipynb)
-- Desafio Transformar Base de Dados Textuais em Matriz [[4]](https://github.com/rosacarla/DIO-data-projects/blob/main/notebooks/Desafio_text_matrix.ipynb)
+- Desafio Transformar Base de Dados Textuais em Matriz [[4]](https://github.com/rosacarla/DIO-data-projects/blob/main/notebooks/Desafio_text_matrix.ipynb)  
+- *Dashboard com dados mundiais de casos confirmados e mortes por coronavírus, criado com o conjunto de dados Johns Hopkins University CSSE COVID-19 Data, disponível no site www.ourworldindata.org. [[5]]() 
+###### *Utilize um botão no canto esquerdo superior do arquivo para abrir o dashboard com a ferramenta Google Data Studio.
+<p align="left"> 
+<img src="" width="200">
+</p>
 
 ---
 
@@ -23,7 +30,7 @@ Repositório para armazenamento de atividades e projetos na área de Dados, real
 Carla Edila Silveira  
 Contato: rosa.carla@pucpr.edu.br
 
----
+--- 
 
 ## Licença  
 
