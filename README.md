@@ -13,9 +13,9 @@ Este repositório armazena atividades e projetos desenvolvidos na área de Dados
 
 ## Projetos desenvolvidos  
 
-- Índices de sobrevivência com dados do Titanic [[1]](https://github.com/rosacarla/DIO-data-projects/blob/main/notebooks/ProjetoDIO_Titanic.ipynb) 
-- Relatório para Análise Exploratória de Dados [[2]](https://github.com/rosacarla/DIO-data-projects/blob/main/notebooks/Projeto_Relatorio_Analise_Exploratoria.ipynb)
-- Análise e Agrupamento de consumidores com ML [[3]](https://github.com/rosacarla/DIO-data-projects/blob/main/notebooks/Projeto_Agrupamento_Clientes_KMeans.ipynb)
+- Modelo de predição de índices de sobrevivência com dados do Titanic [[1]](https://github.com/rosacarla/DIO-data-projects/blob/main/notebooks/ProjetoDIO_Titanic.ipynb) 
+- Relatório de Análise Exploratória de Dados, a partir do dataset _Houses to Rent_ (composto por 10 mil imóveis para locação no Brasil) [[2]](https://github.com/rosacarla/DIO-data-projects/blob/main/notebooks/Projeto_Relatorio_Analise_Exploratoria.ipynb)
+- Análise e Agrupamento de consumidores com ML, com uso do dataset _Mall Customer Segmentation Data_ (perfil de consumidor alvo) [[3]](https://github.com/rosacarla/DIO-data-projects/blob/main/notebooks/Projeto_Agrupamento_Clientes_KMeans.ipynb)
 - Desafio Transformar Base de Dados Textuais em Matriz [[4]](https://github.com/rosacarla/DIO-data-projects/blob/main/notebooks/Desafio_text_matrix.ipynb)  
 - (*) Dashboard com dados mundiais de casos confirmados e mortes por coronavírus, criado com o conjunto de dados Johns Hopkins University CSSE COVID-19 Data, disponível no site www.ourworldindata.org. [[5]](https://github.com/rosacarla/DIO-data-projects/blob/main/Relat%C3%B3rio_Covid19_2021.pdf) 
 ###### (*) Depois de fazer download do arquivo, utilize um botão no canto esquerdo superior do PDF para abrir o dashboard com a ferramenta Google Data Studio.
